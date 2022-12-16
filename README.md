@@ -1,2 +1,10 @@
-# Teste_Unitario_JUnit_Java
-Respositório com roteiros e exemplos de como utilizar JUnit. Foi utilizado para os exemplos a versão 5.9.1, mais atual até o momento (10/12/2022).
+<span align="center">
+
+##  Bem-vindos ao meu repositório de teste unitário de Java em JUnit! 👋 
+
+</span>
+
+
+<div align="center">
+<img src="?" width="400px" />
+</div>
